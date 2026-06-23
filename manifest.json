@@ -1,18 +1,130 @@
-[
-    {
-        "name": "Infinity Yeld",
-        "file": "Infinity Yeld.lua"
-    },
-    {
-        "name": "Server ID",
-        "file": "Server Id.lua"
-    },
-    {
-        "name": "IP Get",
-        "file": "IP Get.lua"
-    },
-    {
-        "name": "Pick Gui",
-        "file": "Pick Gui.lua"
-    }
-]
+{
+    "folders": [
+        {
+            "name": "Makers",
+            "scripts": [
+                {
+                    "name": "Base Plate",
+                    "file": "Base Plate.lua"
+                },
+                {
+                    "name": "Found Parents",
+                    "file": "Found Parents.lua"
+                },
+                {
+                    "name": "IP Get",
+                    "file": "IP Get.lua"
+                },
+                {
+                    "name": "Infinity Yeld",
+                    "file": "Infinity Yeld.lua"
+                },
+                {
+                    "name": "Pick Gui",
+                    "file": "Pick Gui.lua"
+                },
+                {
+                    "name": "Remote Fire",
+                    "file": "Remote Fire.lua"
+                },
+                {
+                    "name": "Server Id",
+                    "file": "Server Id.lua"
+                },
+                {
+                    "name": "Web Hook",
+                    "file": "Web Hook.lua"
+                }
+            ]
+        },
+        {
+            "name": "Scripts",
+            "scripts": [
+                {
+                    "name": "100 waves",
+                    "file": "100 waves.lua"
+                },
+                {
+                    "name": "8 Ball Pool Classic",
+                    "file": "8 Ball Pool Classic.lua"
+                },
+                {
+                    "name": "Catch Pets To Make Power",
+                    "file": "Catch Pets To Make Power.lua"
+                },
+                {
+                    "name": "Draw Slide",
+                    "file": "Draw Slide.lua"
+                },
+                {
+                    "name": "EmoteCopy",
+                    "file": "EmoteCopy.lua"
+                },
+                {
+                    "name": "Files",
+                    "file": "Files.lua"
+                },
+                {
+                    "name": "Fix It Up",
+                    "file": "Fix It Up.lua"
+                },
+                {
+                    "name": "Fling Things And People",
+                    "file": "Fling Things And People.lua"
+                },
+                {
+                    "name": "Graficos",
+                    "file": "Graficos.lua"
+                },
+                {
+                    "name": "Grass Incremental Simulator",
+                    "file": "Grass Incremental Simulator.lua"
+                },
+                {
+                    "name": "I Hate Brainhots",
+                    "file": "I Hate Brainhots.lua"
+                },
+                {
+                    "name": "Murder Mystery",
+                    "file": "Murder Mystery.lua"
+                },
+                {
+                    "name": "Park A Car",
+                    "file": "Park A Car.lua"
+                },
+                {
+                    "name": "Snake Game",
+                    "file": "Snake Game.lua"
+                },
+                {
+                    "name": "Stalk Gui",
+                    "file": "Stalk Gui.lua"
+                },
+                {
+                    "name": "Star Fishing",
+                    "file": "Star Fishing.lua"
+                },
+                {
+                    "name": "Stud Long Jump",
+                    "file": "Stud Long Jump.lua"
+                },
+                {
+                    "name": "Supa Tech V2",
+                    "file": "Supa Tech V2.lua"
+                },
+                {
+                    "name": "The Strongest Batlegrounds",
+                    "file": "The Strongest Batlegrounds.lua"
+                },
+                {
+                    "name": "Weird Gun",
+                    "file": "Weird Gun.lua"
+                },
+                {
+                    "name": "autoclick",
+                    "file": "autoclick.lua"
+                }
+            ]
+        }
+    ]
+}
