@@ -45,6 +45,10 @@
                     "file": "Base Plate(Ofuscado).lua"
                 },
                 {
+                    "name": "Emote Copy(Ofuscado)",
+                    "file": "Emote Copy(Ofuscado).lua"
+                },
+                {
                     "name": "Graficos(Ofuscado)",
                     "file": "Graficos(Ofuscado).lua"
                 }
