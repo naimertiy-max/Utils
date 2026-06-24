@@ -1,43 +1,6 @@
 {
     "folders": [
         {
-            "name": "Makers",
-            "scripts": [
-                {
-                    "name": "Base Plate",
-                    "file": "Base Plate.lua"
-                },
-                {
-                    "name": "Found Parents",
-                    "file": "Found Parents.lua"
-                },
-                {
-                    "name": "IP Get",
-                    "file": "IP Get.lua"
-                },
-                {
-                    "name": "Infinity Yeld",
-                    "file": "Infinity Yeld.lua"
-                },
-                {
-                    "name": "Pick Gui",
-                    "file": "Pick Gui.lua"
-                },
-                {
-                    "name": "Remote Fire",
-                    "file": "Remote Fire.lua"
-                },
-                {
-                    "name": "Server Id",
-                    "file": "Server Id.lua"
-                },
-                {
-                    "name": "Web Hook",
-                    "file": "Web Hook.lua"
-                }
-            ]
-        },
-        {
             "name": "Scripts",
             "scripts": [
                 {
