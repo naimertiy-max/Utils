@@ -61,10 +61,6 @@
                     "file": "EmoteCopy.lua"
                 },
                 {
-                    "name": "Files",
-                    "file": "Files.lua"
-                },
-                {
                     "name": "Fix It Up",
                     "file": "Fix It Up.lua"
                 },
