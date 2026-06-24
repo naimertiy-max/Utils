@@ -26,6 +26,10 @@
                 {
                     "name": "Server Id(Ofuscado)",
                     "file": "Server Id(Ofuscado).lua"
+                },
+                {
+                    "name": "Stalk Gui(Ofuscado)",
+                    "file": "Stalk Gui(Ofuscado).lua"
                 }
             ]
         },
