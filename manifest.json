@@ -28,6 +28,23 @@
                     "file": "Server Id(Ofuscado).lua"
                 }
             ]
+        },
+        {
+            "name": "Scripts",
+            "scripts": [
+                {
+                    "name": "Autoclick(Ofuscado)",
+                    "file": "Autoclick(Ofuscado).lua"
+                },
+                {
+                    "name": "Base Plate(Ofuscado)",
+                    "file": "Base Plate(Ofuscado).lua"
+                },
+                {
+                    "name": "Graficos(Ofuscado)",
+                    "file": "Graficos(Ofuscado).lua"
+                }
+            ]
         }
     ]
 }
