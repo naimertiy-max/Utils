@@ -1,6 +1,31 @@
 {
     "folders": [
         {
+            "name": "Makers",
+            "scripts": [
+                {
+                    "name": "Found Parents(Ofuscado)",
+                    "file": "Found Parents(Ofuscado).lua"
+                },
+                {
+                    "name": "IP Get(Ofuscado)",
+                    "file": "IP Get(Ofuscado).lua"
+                },
+                {
+                    "name": "Loader(Ofuscado)",
+                    "file": "Loader(Ofuscado).lua"
+                },
+                {
+                    "name": "Pick Gui(Ofuscado)",
+                    "file": "Pick Gui(Ofuscado).lua"
+                },
+                {
+                    "name": "Server Id(Ofuscado)",
+                    "file": "Server Id(Ofuscado).lua"
+                }
+            ]
+        },
+        {
             "name": "Scripts",
             "scripts": [
                 {
