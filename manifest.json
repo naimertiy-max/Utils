@@ -1,15 +1,6 @@
 {
     "folders": [
         {
-            "name": "Fun",
-            "scripts": [
-                {
-                    "name": "Teste",
-                    "file": "Teste.lua"
-                }
-            ]
-        },
-        {
             "name": "Makers",
             "scripts": [
                 {
