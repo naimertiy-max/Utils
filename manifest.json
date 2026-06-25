@@ -8,6 +8,10 @@
                     "file": "Found Parents(Ofuscado).lua"
                 },
                 {
+                    "name": "Graficos(Ofuscado)",
+                    "file": "Graficos(Ofuscado).lua"
+                },
+                {
                     "name": "IP Get(Ofuscado)",
                     "file": "IP Get(Ofuscado).lua"
                 },
