@@ -42,6 +42,10 @@
                 {
                     "name": "Stalk Gui(Ofuscado)",
                     "file": "Stalk Gui(Ofuscado).lua"
+                },
+                {
+                    "name": "Top Server Hop(Ofuscado)",
+                    "file": "Top Server Hop(Ofuscado).lua"
                 }
             ]
         }
