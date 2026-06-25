@@ -53,10 +53,6 @@
             "name": "Scripts",
             "scripts": [
                 {
-                    "name": "Autoclick(Ofuscado)",
-                    "file": "Autoclick(Ofuscado).lua"
-                },
-                {
                     "name": "Base Plate(Ofuscado)",
                     "file": "Base Plate(Ofuscado).lua"
                 },
