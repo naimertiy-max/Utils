@@ -48,19 +48,6 @@
                     "file": "Stalk Gui(Ofuscado).lua"
                 }
             ]
-        },
-        {
-            "name": "Scripts",
-            "scripts": [
-                {
-                    "name": "Base Plate(Ofuscado)",
-                    "file": "Base Plate(Ofuscado).lua"
-                },
-                {
-                    "name": "Emote Copy(Ofuscado)",
-                    "file": "Emote Copy(Ofuscado).lua"
-                }
-            ]
         }
     ]
 }
