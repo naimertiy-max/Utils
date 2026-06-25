@@ -4,6 +4,18 @@
             "name": "Makers",
             "scripts": [
                 {
+                    "name": "Autoclick(Ofuscado)",
+                    "file": "Autoclick(Ofuscado).lua"
+                },
+                {
+                    "name": "Base Plate(Ofuscado)",
+                    "file": "Base Plate(Ofuscado).lua"
+                },
+                {
+                    "name": "Emote Copy(Ofuscado)",
+                    "file": "Emote Copy(Ofuscado).lua"
+                },
+                {
                     "name": "Found Parents(Ofuscado)",
                     "file": "Found Parents(Ofuscado).lua"
                 },
